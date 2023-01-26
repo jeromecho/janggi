@@ -24,6 +24,8 @@ the project. After it, follows a write-up that goes more into the details of the
 
 ## UML
 
+[UML_Design_Diagram.pdf](https://github.com/jeromecho/janggi/files/10514347/UML_Design_Diagram.pdf)
+
 ## Proposal 
 
 **"Casual Janggi"** is an application where users are
