@@ -19,12 +19,13 @@ This was my term project for CPSC210: Software Construction from Sept-Dec 2022, 
 was due to running out of time for writing enough unit tests to satisfy the grader within the deadline (for an application 
 of this size, 95 unit tests was insufficient).
 
-Below is a picture of my UML. I really like it because it shows the absurd amount of unnecessary effort I put into
+Below is a picture of my UML. I really like it because it shows the amount of unnecessary effort I put into
 the project. After it, follows a write-up that goes more into the details of the project.
 
 ## UML
 
-[UML_Design_Diagram.pdf](https://github.com/jeromecho/janggi/files/10514347/UML_Design_Diagram.pdf)
+![UML_Design_Diagram-1](https://user-images.githubusercontent.com/71617542/214977260-c0a6c28e-92ba-43a4-89c9-60d8a97ba0a1.png)
+
 
 ## Proposal 
 
