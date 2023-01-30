@@ -13,6 +13,10 @@ wooden janggi boards are heavy.
 **Things I was scared of but that I got better at**
 - Object-oriented programming
 
+## Images 
+
+<img width="1038" alt="image" src="https://user-images.githubusercontent.com/71617542/215395445-35fb5e5c-d093-4985-a8da-6963f6ecf00d.png">
+
 This was my term project for CPSC210: Software Construction from Sept-Dec 2022, where I earned a grade of **99.55%**. The small difference 
 was due to running out of time for writing enough unit tests to satisfy the grader within the deadline (for an application 
 of this size, 95 unit tests was insufficient).
